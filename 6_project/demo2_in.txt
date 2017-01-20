@@ -1,0 +1,35 @@
+open map
+open health
+show
+train Arda Shaman 30 30
+go
+go
+go
+show
+Arda attack Zug
+go
+Zug move 20 26
+go
+go
+go
+go
+go
+show
+Arda work Rivendale Paduca
+Zug attack Arda
+go
+go
+go
+go
+go
+show
+Arda move 20 30
+go
+go
+status
+go
+go
+status
+go
+status
+quit

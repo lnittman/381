@@ -1,0 +1,9 @@
+2
+jacob marley 000
+ebenezer scrooge 666
+2
+1001 1
+10 Money 1
+scrooge
+1002 1
+10 Christmas 0

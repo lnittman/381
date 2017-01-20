@@ -1,0 +1,43 @@
+group Fellowship
+status
+go
+status
+Fellowship add Bug
+Fellowship add Pippin
+Fellowship add Zug
+Fellowship add Pippin
+Fellowship move 10 10
+go
+go
+train Gandalf Shaman 10 10
+go
+go
+disband Gandalf
+Gandalf add Fellowship
+Fellowship add Gandalf
+status
+group Hobbits
+Hobbits add Pippin
+Hobbits add Merry
+Fellowship add Hobbits
+Hobbits add Fellowship
+Fellowship remove Iriel
+status
+go
+go
+Fellowship work Sunnybrook Shire
+go
+go
+Fellowship attack Bug
+status
+Fellowship remove Gandalf
+open Fellowship
+open Hobbits
+status
+disband Hobbit
+disband Hobbits
+status
+go
+go
+disband Fellowship
+quit

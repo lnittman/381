@@ -1,0 +1,354 @@
+
+Time 0: Enter command: Bug: I'm on the way
+
+Time 0: Enter command: Bug: step...
+Farm Rivendale now has 52.00
+Farm Sunnybrook now has 52.00
+
+Time 1: Enter command: Bug: step...
+Farm Rivendale now has 54.00
+Farm Sunnybrook now has 54.00
+
+Time 2: Enter command: Bug: I'm there!
+Farm Rivendale now has 56.00
+Farm Sunnybrook now has 56.00
+
+Time 3: Enter command: 
+Time 3: Enter command: Shaman Arda at (20.00, 20.00)
+   Health is 5
+   Stopped
+   Not healing
+Soldier Bug at (20.00, 30.00)
+   Health is 5
+   Stopped
+   Not attacking
+Archer Iriel at (20.00, 38.00)
+   Health is 5
+   Stopped
+   Not attacking
+Peasant Merry at (0.00, 25.00)
+   Health is 5
+   Stopped
+   Carrying 0.00
+Town_Hall Paduca at (30.00, 30.00)
+   Contains 0.00
+Peasant Pippin at (5.00, 10.00)
+   Health is 5
+   Stopped
+   Carrying 0.00
+Farm Rivendale at (10.00, 10.00)
+   Food available: 56.00
+Town_Hall Shire at (20.00, 20.00)
+   Contains 0.00
+Farm Sunnybrook at (0.00, 30.00)
+   Food available: 56.00
+Soldier Zug at (20.00, 30.00)
+   Health is 5
+   Stopped
+   Not attacking
+
+Time 3: Enter command: Arda: I'm on the way
+Farm Rivendale now has 58.00
+Farm Sunnybrook now has 58.00
+
+Time 4: Enter command: Arda: step...
+Farm Rivendale now has 60.00
+Farm Sunnybrook now has 60.00
+
+Time 5: Enter command: 
+Time 5: Enter command: 
+Time 5: Enter command: Current Health:
+--------------
+Arda: 5.00
+Bug: 5.00
+Iriel: 5.00
+Merry: 5.00
+Pippin: 5.00
+Zug: 5.00
+--------------
+Local view for: Arda
+     . . . . . . . . . 
+     . . . . * . . . . 
+  28 . . . . . . . . . 
+     . . . . . . . . . 
+     . . . . Ar. . . . 
+  22 . . . . . . . . . 
+     . . . . Sh. . . . 
+     . . . . . . . . . 
+  16 . . . . . . . . . 
+    11    17    23
+
+Time 5: Enter command: Shaman Arda at (20.00, 25.00)
+   Health is 5
+   Moving at speed 5.00 to (20.00, 30.00)
+   Not healing
+Soldier Bug at (20.00, 30.00)
+   Health is 5
+   Stopped
+   Not attacking
+Archer Iriel at (20.00, 38.00)
+   Health is 5
+   Stopped
+   Not attacking
+Peasant Merry at (0.00, 25.00)
+   Health is 5
+   Stopped
+   Carrying 0.00
+Town_Hall Paduca at (30.00, 30.00)
+   Contains 0.00
+Peasant Pippin at (5.00, 10.00)
+   Health is 5
+   Stopped
+   Carrying 0.00
+Farm Rivendale at (10.00, 10.00)
+   Food available: 60.00
+Town_Hall Shire at (20.00, 20.00)
+   Contains 0.00
+Farm Sunnybrook at (0.00, 30.00)
+   Food available: 60.00
+Soldier Zug at (20.00, 30.00)
+   Health is 5
+   Stopped
+   Not attacking
+
+Time 5: Enter command: Arda: I'm there!
+Arda: I'm healing!
+Farm Rivendale now has 62.00
+Farm Sunnybrook now has 62.00
+
+Time 6: Enter command: Shaman Arda at (20.00, 30.00)
+   Health is 5
+   Stopped
+   Healing Bug
+Soldier Bug at (20.00, 30.00)
+   Health is 5
+   Stopped
+   Not attacking
+Archer Iriel at (20.00, 38.00)
+   Health is 5
+   Stopped
+   Not attacking
+Peasant Merry at (0.00, 25.00)
+   Health is 5
+   Stopped
+   Carrying 0.00
+Town_Hall Paduca at (30.00, 30.00)
+   Contains 0.00
+Peasant Pippin at (5.00, 10.00)
+   Health is 5
+   Stopped
+   Carrying 0.00
+Farm Rivendale at (10.00, 10.00)
+   Food available: 62.00
+Town_Hall Shire at (20.00, 20.00)
+   Contains 0.00
+Farm Sunnybrook at (0.00, 30.00)
+   Food available: 62.00
+Soldier Zug at (20.00, 30.00)
+   Health is 5
+   Stopped
+   Not attacking
+
+Time 6: Enter command: Arda: Hmmmmm!
+Bug: +1 health gained!
+Farm Rivendale now has 64.00
+Farm Sunnybrook now has 64.00
+
+Time 7: Enter command: Current Health:
+--------------
+Arda: 5.00
+Bug: 6.00
+Iriel: 5.00
+Merry: 5.00
+Pippin: 5.00
+Zug: 5.00
+--------------
+Local view for: Arda
+     . . . . Ir. . . . 
+     . . . . . . . . . 
+  33 . . . . . . . . . 
+     . . . . . . . . . 
+     . . . . * . . . . 
+  27 . . . . . . . . . 
+     . . . . . . . . . 
+     . . . . . . . . . 
+  21 . . . . . . . . . 
+    11    17    23
+
+Time 7: Enter command: Zug: I'm attacking!
+
+Time 7: Enter command: Arda: Hmmmmm!
+Bug: +1 health gained!
+Farm Rivendale now has 66.00
+Farm Sunnybrook now has 66.00
+Zug: Clang!
+Bug: Ouch!
+Bug: I'm attacking!
+
+Time 8: Enter command: Shaman Arda at (20.00, 30.00)
+   Health is 5
+   Stopped
+   Healing Bug
+Soldier Bug at (20.00, 30.00)
+   Health is 5
+   Stopped
+   Attacking Zug
+Archer Iriel at (20.00, 38.00)
+   Health is 5
+   Stopped
+   Not attacking
+Peasant Merry at (0.00, 25.00)
+   Health is 5
+   Stopped
+   Carrying 0.00
+Town_Hall Paduca at (30.00, 30.00)
+   Contains 0.00
+Peasant Pippin at (5.00, 10.00)
+   Health is 5
+   Stopped
+   Carrying 0.00
+Farm Rivendale at (10.00, 10.00)
+   Food available: 66.00
+Town_Hall Shire at (20.00, 20.00)
+   Contains 0.00
+Farm Sunnybrook at (0.00, 30.00)
+   Food available: 66.00
+Soldier Zug at (20.00, 30.00)
+   Health is 5
+   Stopped
+   Attacking Bug
+
+Time 8: Enter command: 
+Time 8: Enter command: Lug: I'm attacking!
+
+Time 8: Enter command: Arda: Hmmmmm!
+Bug: +1 health gained!
+Bug: Clang!
+Zug: Ouch!
+Lug: Clang!
+Arda: Ouch!
+Arda: Summoning self-healing spirits!
+Arda: +1 health gained!
+Farm Rivendale now has 68.00
+Farm Sunnybrook now has 68.00
+Zug: Clang!
+Bug: Ouch!
+
+Time 9: Enter command: Arda: Hmmmmm!
+Bug: +1 health gained!
+Bug: Clang!
+Zug: Ouch!
+Lug: Clang!
+Arda: Ouch!
+Arda: Summoning self-healing spirits!
+Arda: +1 health gained!
+Farm Rivendale now has 70.00
+Farm Sunnybrook now has 70.00
+Zug: Clang!
+Bug: Ouch!
+
+Time 10: Enter command: Current Health:
+--------------
+Arda: 3.00
+Bug: 3.00
+Iriel: 5.00
+Lug: 5.00
+Merry: 5.00
+Pippin: 5.00
+Zug: 1.00
+--------------
+Local view for: Arda
+     . . . . Ir. . . . 
+     . . . . . . . . . 
+  33 . . . . . . . . . 
+     . . . . . . . . . 
+     . . . . * . . . . 
+  27 . . . . . . . . . 
+     . . . . . . . . . 
+     . . . . . . . . . 
+  21 . . . . . . . . . 
+    11    17    23
+
+Time 10: Enter command: Arda: Hmmmmm!
+Bug: +1 health gained!
+Bug: Clang!
+Zug: Arrggh!
+Bug: I triumph!
+Lug: Clang!
+Arda: Ouch!
+Arda: Summoning self-healing spirits!
+Arda: +1 health gained!
+Farm Rivendale now has 72.00
+Farm Sunnybrook now has 72.00
+
+Time 11: Enter command: Shaman Arda at (20.00, 30.00)
+   Health is 2
+   Stopped
+   Healing Bug
+Soldier Bug at (20.00, 30.00)
+   Health is 4
+   Stopped
+   Not attacking
+Archer Iriel at (20.00, 38.00)
+   Health is 5
+   Stopped
+   Not attacking
+Soldier Lug at (20.00, 29.00)
+   Health is 5
+   Stopped
+   Attacking Arda
+Peasant Merry at (0.00, 25.00)
+   Health is 5
+   Stopped
+   Carrying 0.00
+Town_Hall Paduca at (30.00, 30.00)
+   Contains 0.00
+Peasant Pippin at (5.00, 10.00)
+   Health is 5
+   Stopped
+   Carrying 0.00
+Farm Rivendale at (10.00, 10.00)
+   Food available: 72.00
+Town_Hall Shire at (20.00, 20.00)
+   Contains 0.00
+Farm Sunnybrook at (0.00, 30.00)
+   Food available: 72.00
+
+Time 11: Enter command: Arda: Hmmmmm!
+Bug: +1 health gained!
+Lug: Clang!
+Arda: Arrggh!
+Lug: I triumph!
+Farm Rivendale now has 74.00
+Farm Sunnybrook now has 74.00
+
+Time 12: Enter command: Soldier Bug at (20.00, 30.00)
+   Health is 5
+   Stopped
+   Not attacking
+Archer Iriel at (20.00, 38.00)
+   Health is 5
+   Stopped
+   Not attacking
+Soldier Lug at (20.00, 29.00)
+   Health is 5
+   Stopped
+   Not attacking
+Peasant Merry at (0.00, 25.00)
+   Health is 5
+   Stopped
+   Carrying 0.00
+Town_Hall Paduca at (30.00, 30.00)
+   Contains 0.00
+Peasant Pippin at (5.00, 10.00)
+   Health is 5
+   Stopped
+   Carrying 0.00
+Farm Rivendale at (10.00, 10.00)
+   Food available: 74.00
+Town_Hall Shire at (20.00, 20.00)
+   Contains 0.00
+Farm Sunnybrook at (0.00, 30.00)
+   Food available: 74.00
+
+Time 12: Enter command: Done

@@ -1,0 +1,11 @@
+3
+elton john 789
+tom jones 123
+silas marner 456
+2
+1001 2
+10 music 2
+john
+jones
+2 literature 0
+1002 0

@@ -1,0 +1,30 @@
+Bug move 20 30
+go
+go
+go
+train Arda Shaman 20 20
+status
+go
+go
+open health
+open Arda
+show
+status
+go
+status
+go
+show
+Zug attack Bug
+go
+status
+train Lug Soldier 20 29
+Lug attack Arda
+go
+go
+show
+go
+status
+go
+status
+quit
+

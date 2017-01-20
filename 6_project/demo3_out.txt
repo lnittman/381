@@ -1,0 +1,398 @@
+
+Time 0: Enter command: 
+Time 0: Enter command: Soldier Bug at (15.00, 20.00)
+   Health is 5
+   Stopped
+   Not attacking
+Group Fellowship
+   Members:
+    None
+Archer Iriel at (20.00, 38.00)
+   Health is 5
+   Stopped
+   Not attacking
+Peasant Merry at (0.00, 25.00)
+   Health is 5
+   Stopped
+   Carrying 0.00
+Town_Hall Paduca at (30.00, 30.00)
+   Contains 0.00
+Peasant Pippin at (5.00, 10.00)
+   Health is 5
+   Stopped
+   Carrying 0.00
+Farm Rivendale at (10.00, 10.00)
+   Food available: 50.00
+Town_Hall Shire at (20.00, 20.00)
+   Contains 0.00
+Farm Sunnybrook at (0.00, 30.00)
+   Food available: 50.00
+Soldier Zug at (20.00, 30.00)
+   Health is 5
+   Stopped
+   Not attacking
+
+Time 0: Enter command: Farm Rivendale now has 52.00
+Farm Sunnybrook now has 52.00
+
+Time 1: Enter command: Soldier Bug at (15.00, 20.00)
+   Health is 5
+   Stopped
+   Not attacking
+Group Fellowship
+   Members:
+    None
+Archer Iriel at (20.00, 38.00)
+   Health is 5
+   Stopped
+   Not attacking
+Peasant Merry at (0.00, 25.00)
+   Health is 5
+   Stopped
+   Carrying 0.00
+Town_Hall Paduca at (30.00, 30.00)
+   Contains 0.00
+Peasant Pippin at (5.00, 10.00)
+   Health is 5
+   Stopped
+   Carrying 0.00
+Farm Rivendale at (10.00, 10.00)
+   Food available: 52.00
+Town_Hall Shire at (20.00, 20.00)
+   Contains 0.00
+Farm Sunnybrook at (0.00, 30.00)
+   Food available: 52.00
+Soldier Zug at (20.00, 30.00)
+   Health is 5
+   Stopped
+   Not attacking
+
+Time 1: Enter command: 
+Time 1: Enter command: 
+Time 1: Enter command: 
+Time 1: Enter command: Component already present in the group!
+
+Time 1: Enter command: Bug: I'm on the way
+Pippin: I'm on the way
+Zug: I'm on the way
+
+Time 1: Enter command: Bug: step...
+Pippin: I'm there!
+Farm Rivendale now has 54.00
+Farm Sunnybrook now has 54.00
+Zug: step...
+
+Time 2: Enter command: Bug: step...
+Farm Rivendale now has 56.00
+Farm Sunnybrook now has 56.00
+Zug: step...
+
+Time 3: Enter command: 
+Time 3: Enter command: Bug: I'm there!
+Gandalf: I'm healing!
+Farm Rivendale now has 58.00
+Farm Sunnybrook now has 58.00
+Zug: step...
+
+Time 4: Enter command: Gandalf: Hmmmmm!
+Bug: +1 health gained!
+Farm Rivendale now has 60.00
+Farm Sunnybrook now has 60.00
+Zug: step...
+
+Time 5: Enter command: Can't disband an agent!
+
+Time 5: Enter command: Only groups can add components!
+
+Time 5: Enter command: 
+Time 5: Enter command: Soldier Bug at (10.00, 10.00)
+   Health is 6
+   Stopped
+   Not attacking
+Group Fellowship
+   Members:
+    - Soldier Bug
+    - Shaman Gandalf
+    - Peasant Pippin
+    - Soldier Zug
+Shaman Gandalf at (10.00, 10.00)
+   Health is 5
+   Stopped
+   Healing Bug
+Archer Iriel at (20.00, 38.00)
+   Health is 5
+   Stopped
+   Not attacking
+Peasant Merry at (0.00, 25.00)
+   Health is 5
+   Stopped
+   Carrying 0.00
+Town_Hall Paduca at (30.00, 30.00)
+   Contains 0.00
+Peasant Pippin at (10.00, 10.00)
+   Health is 5
+   Stopped
+   Carrying 0.00
+Farm Rivendale at (10.00, 10.00)
+   Food available: 60.00
+Town_Hall Shire at (20.00, 20.00)
+   Contains 0.00
+Farm Sunnybrook at (0.00, 30.00)
+   Food available: 60.00
+Soldier Zug at (11.06, 12.11)
+   Health is 5
+   Moving at speed 5.00 to (10.00, 10.00)
+   Not attacking
+
+Time 5: Enter command: 
+Time 5: Enter command: 
+Time 5: Enter command: 
+Time 5: Enter command: 
+Time 5: Enter command: Two groups can't contain each other!
+
+Time 5: Enter command: Component not found in group!
+
+Time 5: Enter command: Soldier Bug at (10.00, 10.00)
+   Health is 6
+   Stopped
+   Not attacking
+Group Fellowship
+   Members:
+    - Soldier Bug
+    - Shaman Gandalf
+    - Group Hobbits
+    - Peasant Pippin
+    - Soldier Zug
+Shaman Gandalf at (10.00, 10.00)
+   Health is 5
+   Stopped
+   Healing Bug
+Group Hobbits
+   Members:
+    - Peasant Merry
+    - Peasant Pippin
+Archer Iriel at (20.00, 38.00)
+   Health is 5
+   Stopped
+   Not attacking
+Peasant Merry at (0.00, 25.00)
+   Health is 5
+   Stopped
+   Carrying 0.00
+Town_Hall Paduca at (30.00, 30.00)
+   Contains 0.00
+Peasant Pippin at (10.00, 10.00)
+   Health is 5
+   Stopped
+   Carrying 0.00
+Farm Rivendale at (10.00, 10.00)
+   Food available: 60.00
+Town_Hall Shire at (20.00, 20.00)
+   Contains 0.00
+Farm Sunnybrook at (0.00, 30.00)
+   Food available: 60.00
+Soldier Zug at (11.06, 12.11)
+   Health is 5
+   Moving at speed 5.00 to (10.00, 10.00)
+   Not attacking
+
+Time 5: Enter command: Gandalf: Hmmmmm!
+Bug: +1 health gained!
+Farm Rivendale now has 62.00
+Farm Sunnybrook now has 62.00
+Zug: I'm there!
+
+Time 6: Enter command: Gandalf: Hmmmmm!
+Bug: +1 health gained!
+Farm Rivendale now has 64.00
+Farm Sunnybrook now has 64.00
+
+Time 7: Enter command: Bug: Sorry, I can't work!
+Gandalf: Sorry, I can't work!
+Merry: I'm on the way
+Pippin: I'm on the way
+Zug: Sorry, I can't work!
+
+Time 7: Enter command: Gandalf: Hmmmmm!
+Bug: +1 health gained!
+Merry: I'm there!
+Pippin: step...
+Farm Rivendale now has 66.00
+Farm Sunnybrook now has 66.00
+
+Time 8: Enter command: Gandalf: Hmmmmm!
+Bug: +1 health gained!
+Merry: Collected 35.00
+Merry: I'm on the way
+Pippin: step...
+Farm Rivendale now has 68.00
+Farm Sunnybrook now has 33.00
+
+Time 9: Enter command: Bug: I cannot attack myself!
+Gandalf: Sorry, I can't attack!
+Merry: Sorry, I can't attack!
+Pippin: Sorry, I can't attack!
+Zug: I'm attacking!
+
+Time 9: Enter command: Soldier Bug at (10.00, 10.00)
+   Health is 10
+   Stopped
+   Not attacking
+Group Fellowship
+   Members:
+    - Soldier Bug
+    - Shaman Gandalf
+    - Group Hobbits
+    - Peasant Pippin
+    - Soldier Zug
+Shaman Gandalf at (10.00, 10.00)
+   Health is 5
+   Stopped
+   Healing Bug
+Group Hobbits
+   Members:
+    - Peasant Merry
+    - Peasant Pippin
+Archer Iriel at (20.00, 38.00)
+   Health is 5
+   Stopped
+   Not attacking
+Peasant Merry at (0.00, 30.00)
+   Health is 5
+   Moving at speed 5.00 to (20.00, 20.00)
+   Carrying 35.00
+   Outbound to destination Shire
+Town_Hall Paduca at (30.00, 30.00)
+   Contains 0.00
+Peasant Pippin at (5.53, 18.94)
+   Health is 5
+   Moving at speed 5.00 to (0.00, 30.00)
+   Carrying 0.00
+   Inbound to source Sunnybrook
+Farm Rivendale at (10.00, 10.00)
+   Food available: 68.00
+Town_Hall Shire at (20.00, 20.00)
+   Contains 0.00
+Farm Sunnybrook at (0.00, 30.00)
+   Food available: 33.00
+Soldier Zug at (10.00, 10.00)
+   Health is 5
+   Stopped
+   Attacking Bug
+
+Time 9: Enter command: 
+Time 9: Enter command: Group does not have a location!
+
+Time 9: Enter command: Group does not have a location!
+
+Time 9: Enter command: Soldier Bug at (10.00, 10.00)
+   Health is 10
+   Stopped
+   Not attacking
+Group Fellowship
+   Members:
+    - Soldier Bug
+    - Group Hobbits
+    - Peasant Pippin
+    - Soldier Zug
+Shaman Gandalf at (10.00, 10.00)
+   Health is 5
+   Stopped
+   Healing Bug
+Group Hobbits
+   Members:
+    - Peasant Merry
+    - Peasant Pippin
+Archer Iriel at (20.00, 38.00)
+   Health is 5
+   Stopped
+   Not attacking
+Peasant Merry at (0.00, 30.00)
+   Health is 5
+   Moving at speed 5.00 to (20.00, 20.00)
+   Carrying 35.00
+   Outbound to destination Shire
+Town_Hall Paduca at (30.00, 30.00)
+   Contains 0.00
+Peasant Pippin at (5.53, 18.94)
+   Health is 5
+   Moving at speed 5.00 to (0.00, 30.00)
+   Carrying 0.00
+   Inbound to source Sunnybrook
+Farm Rivendale at (10.00, 10.00)
+   Food available: 68.00
+Town_Hall Shire at (20.00, 20.00)
+   Contains 0.00
+Farm Sunnybrook at (0.00, 30.00)
+   Food available: 33.00
+Soldier Zug at (10.00, 10.00)
+   Health is 5
+   Stopped
+   Attacking Bug
+
+Time 9: Enter command: Component not found!
+
+Time 9: Enter command: 
+Time 9: Enter command: Soldier Bug at (10.00, 10.00)
+   Health is 10
+   Stopped
+   Not attacking
+Group Fellowship
+   Members:
+    - Soldier Bug
+    - Peasant Pippin
+    - Soldier Zug
+Shaman Gandalf at (10.00, 10.00)
+   Health is 5
+   Stopped
+   Healing Bug
+Archer Iriel at (20.00, 38.00)
+   Health is 5
+   Stopped
+   Not attacking
+Peasant Merry at (0.00, 30.00)
+   Health is 5
+   Moving at speed 5.00 to (20.00, 20.00)
+   Carrying 35.00
+   Outbound to destination Shire
+Town_Hall Paduca at (30.00, 30.00)
+   Contains 0.00
+Peasant Pippin at (5.53, 18.94)
+   Health is 5
+   Moving at speed 5.00 to (0.00, 30.00)
+   Carrying 0.00
+   Inbound to source Sunnybrook
+Farm Rivendale at (10.00, 10.00)
+   Food available: 68.00
+Town_Hall Shire at (20.00, 20.00)
+   Contains 0.00
+Farm Sunnybrook at (0.00, 30.00)
+   Food available: 33.00
+Soldier Zug at (10.00, 10.00)
+   Health is 5
+   Stopped
+   Attacking Bug
+
+Time 9: Enter command: Gandalf: Hmmmmm!
+Bug: +1 health gained!
+Merry: step...
+Pippin: step...
+Farm Rivendale now has 70.00
+Farm Sunnybrook now has 35.00
+Zug: Clang!
+Bug: Ouch!
+Bug: I'm attacking!
+
+Time 10: Enter command: Bug: Clang!
+Zug: Ouch!
+Gandalf: Hmmmmm!
+Bug: +1 health gained!
+Merry: step...
+Pippin: step...
+Farm Rivendale now has 72.00
+Farm Sunnybrook now has 37.00
+Zug: Clang!
+Bug: Ouch!
+
+Time 11: Enter command: 
+Time 11: Enter command: Done
